@@ -1,0 +1,26 @@
+[
+    {
+        "text": "Camaldoli",
+        "left": 593,
+        "top": 157,
+        "width": 60,
+        "height": 16,
+        "confidence": 0.9999366193901028
+    },
+    {
+        "text": "Gênes",
+        "left": 284,
+        "top": 218,
+        "width": 76,
+        "height": 30,
+        "confidence": 0.9999551644767486
+    },
+    {
+        "text": "Bacino",
+        "left": 234,
+        "top": 320,
+        "width": 35,
+        "height": 14,
+        "confidence": 0.9228965390939223
+    }
+]
